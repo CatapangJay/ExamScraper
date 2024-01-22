@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamScraper", "ExamScraper.csproj", "{F5740AC3-05CA-4FFC-B30C-C5903B3B811C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{8F75F22D-5424-40E7-B393-64545F3CC192}"
+	ProjectSection(SolutionItems) = preProject
+		assets\msedgedriver.exe = assets\msedgedriver.exe
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5740AC3-05CA-4FFC-B30C-C5903B3B811C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5740AC3-05CA-4FFC-B30C-C5903B3B811C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5740AC3-05CA-4FFC-B30C-C5903B3B811C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5740AC3-05CA-4FFC-B30C-C5903B3B811C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6A3B4E-729B-4FE3-B78F-8CB6B7F68A01}
+	EndGlobalSection
+EndGlobal
